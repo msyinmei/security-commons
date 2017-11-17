@@ -45,7 +45,7 @@ Finally, the response team will make a report on the situation to the Stumptown 
 
 ## Appealing the response
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Yin Mei and the group administrators will review the case. 
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact Yin Mei and the group administrators will review the case. 
 _Revision 1.0, DRAFT
 _Reporting Guidelines derived from those of the [Stumptown Syndicate] (https://github.com/stumpsyn/policies) 
 _Reporting Guidelines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
